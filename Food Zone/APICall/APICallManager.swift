@@ -9,7 +9,7 @@
 import Alamofire
 import SwiftyJSON
 import Foundation
-
+import UIKit
 
 class APICallManager {
 
